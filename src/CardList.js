@@ -2,6 +2,7 @@ import React from 'react';
 import Card from './Card';
 
 // the key is to differentiate the components created - it should be 
+// robots is the cardlist props
 const CardList = ({ robots }) => {
     return (
         <div>
